@@ -1,4 +1,4 @@
-font-size = 14
+font-size = 11
 font-family = "JetBrains Mono"
 
 palette = 0=#45475a
@@ -25,5 +25,5 @@ selection-background = 353749
 selection-foreground = cdd6f4
 split-divider-color = 313244
 
-window-padding-x = 10
-window-padding-y = 10
+window-padding-x = 2
+window-padding-y = 2
